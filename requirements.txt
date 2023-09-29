@@ -22,4 +22,4 @@ unidecode
 yt-dlp
 youtube-search
 youtube-search-python
-python-dotenv==1.0.0
+python-dotenv
